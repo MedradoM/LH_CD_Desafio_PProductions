@@ -17,7 +17,7 @@ Este projeto consiste em uma análise exploratória de dados (EDA) de um conjunt
 Clone este repositório e acesse:
 
 ```bash
-git clone https://github.com/MedradoM/LH_CD_Desafio_PProductions.git
+git clone https://github.com/MedradoM/LH_CD_MATHEUS_MEDRADO_MASSENA.git
 cd LH_CD_Desafio_PProductions
 ```
 
