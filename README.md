@@ -85,6 +85,8 @@ print("Previsão do modelo:", pred)
 
 - Scikit-learn
 
+- Joblib
+
 - Jupyter Notebook
 
 ### Licença
